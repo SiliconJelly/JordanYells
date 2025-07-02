@@ -1,0 +1,66 @@
+JORDAN YELLS - COMMERCIAL LICENSE
+
+Copyright (c) 2025 Jordan Yells Development Team
+All Rights Reserved
+
+PROPRIETARY SOFTWARE LICENSE
+
+Jordan Yells is proprietary software developed for commercial basketball coaching and training purposes. This software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+LICENSE TERMS:
+
+1. OWNERSHIP
+   This software is owned by Jordan Yells Development Team and is protected by copyright laws and international copyright treaties.
+
+2. RESTRICTIONS
+   - This software may not be copied, reproduced, distributed, or transmitted in any form or by any means without prior written permission.
+   - You may not reverse engineer, decompile, or disassemble this software.
+   - You may not create derivative works based on this software.
+   - You may not use this software for any commercial purpose without proper licensing.
+
+3. COMMERCIAL USE
+   Commercial use of Jordan Yells requires a valid commercial license. Please contact the development team for licensing inquiries.
+
+4. INSPIRATION ACKNOWLEDGMENT
+   Jordan Yells was inspired by Farzaa's OpenCV project, which is licensed under the MIT License. While our implementation is proprietary, we acknowledge the original concept inspiration.
+
+5. THIRD-PARTY COMPONENTS
+   This software incorporates:
+   - Apple Vision Framework (Apple's standard license terms)
+   - Google Gemini AI (Google's API terms of service)
+   - SwiftUI Framework (Apple's standard license terms)
+
+6. DISCLAIMER
+   This software is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+7. LIMITATION OF LIABILITY
+   In no event shall the copyright holders be liable for any claim, damages, or other liability arising from the use of this software.
+
+For licensing inquiries, please contact:
+Jordan Yells Development Team
+
+---
+
+INSPIRATION ACKNOWLEDGMENT:
+
+Original OpenCV Project by Farzaa
+MIT License - https://github.com/farzaa
+Copyright (c) Farzaa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
